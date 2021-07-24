@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @ceauris
-- 👀 I’m interested in help you with your requirements
-- 🌱 I’m currently learning how to help you
-- 💞️ I’m looking to collaborate on solve your needs
-- 📫 How to reach me: crivas4163@gmail.com, @ceauris63
+# **César Augusto Rivas --- @ceauris**
+
+How do I define myself:
+
+```
+Digital Nomad
+
+Entreprenuer
+
+Mature Junior Developer
+```
+
+📫 How to reach to me : crivas4163@gmail.com @ceauris
+
 
 <!---
 ceauris/ceauris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
